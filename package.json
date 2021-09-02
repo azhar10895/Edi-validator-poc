@@ -1,0 +1,20 @@
+{
+  "name": "step-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.768.0",
+    "serverless-pseudo-parameters": "^2.5.0",
+    "serverless-step-functions": "^2.26.0"
+  },
+  "devDependencies": {
+    "serverless-step-functions-offline": "^2.1.4"
+  }
+}
